@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hira Đặng</h1>
 <h3 align="center">A developer who is interested in learning foreign languages and programming languages.</h3>
 
-<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ffea22d0b7b8b098f7c98884c6fe0ca706cf6469&rid=giphy.gif"> </img>
+<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ffea22d0b7b8b098f7c98884c6fe0ca706cf6469&rid=giphy.gif" width="50%"> </img>
 
 - 🔭 I’m currently a **student at the University of Engineering and Technology, Vietnam National University.**
 
@@ -28,8 +28,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiradang&show_icons=true&locale=en&layout=compact" alt="hiradang" width="30%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiradang&show_icons=true&locale=en&layout=compact" alt="hiradang" width="40%"/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hiradang&" alt="hiradang" width="30%"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hiradang&" alt="hiradang" width="40%"/></p>
 
 
